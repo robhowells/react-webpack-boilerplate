@@ -8,13 +8,13 @@
 
 ## Folder structure
 
-- dist - `Contains any auto-generated / distribution code`
-- src - `Contains any source code`
-  - assets - `Contains any images`
-  - components - `Contains any component code`
-    - ExampleComponent - `Contains any component js and scss`
-  - app.js - `app entry point`
-  - index.html - `app html template`
+- `dist` - Contains any auto-generated / distribution code
+- `src` - Contains any source code
+  - `assets` - Contains any images
+  - `components` - Contains any component code
+    - `ExampleComponent` - Contains any component js and scss
+  - `app.js` - app entry point
+  - `index.html` - app html template
  
 ## Build tools
  
